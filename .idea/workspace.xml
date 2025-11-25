@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d6f51d5d-7eda-46c0-9d66-5a7b27a04ecf" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_airbnb" beforeDir="false" afterPath="$PROJECT_DIR$/my_airbnb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_airbnb/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/my_airbnb/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_airbnb/my_airbnb/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_airbnb/my_airbnb/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_airbnb/my_airbnb/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_airbnb/my_airbnb/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my_airbnb" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -32,6 +28,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
 }</component>
